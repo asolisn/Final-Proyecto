@@ -1,0 +1,5 @@
+1%fundamentos de programacion
+2%Programacion orientada a objetos
+3%astronomiaxd
+4%Exactas
+5%Computacion

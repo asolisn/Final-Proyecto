@@ -1,0 +1,12 @@
+1%Ing de Software
+2%Ing Electronica
+3%Ing Civil
+4%Ing TI
+5%Biotecnologia
+6%Gastronomia
+7%soft
+8%Pediatra
+9%Medicina
+10%Quimica
+11%Mesero
+12%despachadar
